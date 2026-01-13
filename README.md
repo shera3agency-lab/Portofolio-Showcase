@@ -1,21 +1,67 @@
-Shera3 Agency - Website Portfolio
+# Shera3 Agency — Website Portfolio
 
-This repository contains the official, proprietary Websites Portfolio for Shera3 Agency. It showcases professional designs across major e-commerce platforms including Zid, Salla, WordPress, and Shopify.
+This repository contains the **official and proprietary Website Portfolio** of **Shera3 Agency**.  
+It showcases selected professional website designs across major e-commerce and CMS platforms.
 
-🔐 Intellectual Property Notice
-This project and its contents are the exclusive property of Shera3 Agency.
-- No Rights Reserved for Public Use: This code is provided for demonstration purposes ONLY.
-- Prohibited Actions: Unauthorized copying, redistribution, commercial use, or modification of this project is strictly prohibited and subject to legal action under intellectual property laws.
+### Supported Platforms
+- **Zid**
+- **Salla**
+- **WordPress**
+- **Shopify**
 
-Features
-- Categorized Portfolio: Filterable projects by platform.
-- Dynamic Previews: Live website screenshots via Thum.io.
-- Modern UI: Glassmorphic design with Tailwind CSS and AOS animations.
-- Fully Responsive: Mobile-first architecture.
+This repository is intended **strictly for presentation and demonstration purposes**.
 
-How to Deploy
-- Simply upload index.html to any static hosting provider (GitHub Pages, Netlify, or Vercel).
+---
 
-Contact
-- WhatsApp: +966 55 280 9979
-- Website: shera3agency.com
+## 🔐 Intellectual Property Notice
+
+All contents of this repository are the **exclusive intellectual property of Shera3 Agency**.
+
+### Usage Restrictions
+- ❌ No public usage rights are granted  
+- ❌ No copying, redistribution, modification, or commercial use  
+- ❌ No reuse of code, structure, assets, or design elements  
+
+Any unauthorized use may result in **legal action under applicable intellectual property laws**.
+
+> This repository is not open source and does not grant any form of license.
+
+---
+
+## ✨ Features
+
+- **Categorized Portfolio**  
+  Projects are organized and filterable by platform.
+
+- **Dynamic Website Previews**  
+  Live website screenshots powered by **Thum.io**.
+
+- **Modern UI / UX**  
+  Glassmorphic design using **Tailwind CSS** with **AOS animations**.
+
+- **Fully Responsive**  
+  Mobile-first architecture optimized for all screen sizes.
+
+---
+
+## 🚀 Deployment
+
+This is a **static project**.
+
+To deploy:
+1. Upload `index.html` to any static hosting provider:
+   - GitHub Pages
+   - Netlify
+   - Vercel
+2. No backend, build process, or configuration required.
+
+---
+
+## 📞 Contact
+
+- **WhatsApp:** +966 55 280 9979  
+- **Website:** https://shera3agency.com  
+
+---
+
+© Shera3 Agency — All Rights Reserved
